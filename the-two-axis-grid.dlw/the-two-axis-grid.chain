@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1406
+slug  : the-two-axis-grid
+seal  : 392770211d4f7ae6f8755c222c70ef7157733233f66e9ebba474d855e3eb0ff9
+prev  : a32f9dbc91cb77c3ab5b499907f708edc7b611a512217e3ee78aee63b1bcc461
+link  : d5dfdd37202847be449965d6fe0dc7240e5e349c69de7e45163a71d4a7c1ea46
+head  : c3aaf0872984cab6fc231a85092019d31d5ff097b5e569121cd9a8d6835daa6a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
